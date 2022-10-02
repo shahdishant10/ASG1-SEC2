@@ -1,0 +1,325 @@
+Student Name:- SPWKLZWHCIE GAPCEXAS  
+The Exam Marks are:- 
+                      Exam1  :-  100       Grade:- B
+                      Exam2  :-  91       Grade:- C
+                      Exam3  :-  68       Grade:- F
+                      Exam4  :-  72       Grade:- D
+                      Exam5  :-  100       Grade:- A
+                      Exam6  :-  93       Grade:- B
+                      Exam7  :-  74       Grade:- D
+                      Exam8  :-  77       Grade:- D
+                      Exam9  :-  96       Grade:- B
+                      Exam10  :-  96       Grade:- B
+
+Student Name:- FCCEPWNFVV XJME W
+The Exam Marks are:- 
+                      Exam1  :-  100       Grade:- B
+                      Exam2  :-  100       Grade:- B
+                      Exam3  :-  100       Grade:- B
+                      Exam4  :-  92       Grade:- B
+                      Exam5  :-  80       Grade:- C
+                      Exam6  :-  70       Grade:- F
+                      Exam7  :-  84       Grade:- C
+                      Exam8  :-  76       Grade:- D
+                      Exam9  :-  77       Grade:- D
+                      Exam10  :-  80       Grade:- D
+
+Student Name:- FKAXVFR MAEPR X
+The Exam Marks are:- 
+                      Exam1  :-  88       Grade:- C
+                      Exam2  :-  100       Grade:- B
+                      Exam3  :-  100       Grade:- B
+                      Exam4  :-  100       Grade:- B
+                      Exam5  :-  93       Grade:- B
+                      Exam6  :-  100       Grade:- B
+                      Exam7  :-  79       Grade:- D
+                      Exam8  :-  73       Grade:- D
+                      Exam9  :-  100       Grade:- B
+                      Exam10  :-  100       Grade:- A
+
+Student Name:- UJSYE DTULCIC A
+The Exam Marks are:- 
+                      Exam1  :-  75       Grade:- D
+                      Exam2  :-  84       Grade:- C
+                      Exam3  :-  70       Grade:- F
+                      Exam4  :-  71       Grade:- F
+                      Exam5  :-  72       Grade:- D
+                      Exam6  :-  69       Grade:- F
+                      Exam7  :-  100       Grade:- B
+                      Exam8  :-  80       Grade:- D
+                      Exam9  :-  80       Grade:- D
+                      Exam10  :-  100       Grade:- A
+
+Student Name:- UIPXMS SLOVX  
+The Exam Marks are:- 
+                      Exam1  :-  71       Grade:- F
+                      Exam2  :-  98       Grade:- B
+                      Exam3  :-  88       Grade:- C
+                      Exam4  :-  72       Grade:- D
+                      Exam5  :-  99       Grade:- A
+                      Exam6  :-  70       Grade:- F
+                      Exam7  :-  85       Grade:- C
+                      Exam8  :-  71       Grade:- D
+                      Exam9  :-  76       Grade:- D
+                      Exam10  :-  76       Grade:- D
+
+Student Name:- WAQGUMH BSPRXASR V
+The Exam Marks are:- 
+                      Exam1  :-  97       Grade:- B
+                      Exam2  :-  67       Grade:- F
+                      Exam3  :-  80       Grade:- D
+                      Exam4  :-  100       Grade:- B
+                      Exam5  :-  100       Grade:- A
+                      Exam6  :-  87       Grade:- C
+                      Exam7  :-  90       Grade:- C
+                      Exam8  :-  99       Grade:- B
+                      Exam9  :-  88       Grade:- C
+                      Exam10  :-  66       Grade:- F
+
+Student Name:- VVXFFGIK OWVQEMVS W
+The Exam Marks are:- 
+                      Exam1  :-  84       Grade:- C
+                      Exam2  :-  72       Grade:- F
+                      Exam3  :-  69       Grade:- F
+                      Exam4  :-  76       Grade:- D
+                      Exam5  :-  76       Grade:- D
+                      Exam6  :-  93       Grade:- B
+                      Exam7  :-  100       Grade:- B
+                      Exam8  :-  90       Grade:- B
+                      Exam9  :-  100       Grade:- B
+                      Exam10  :-  72       Grade:- D
+
+Student Name:- HVPBUM LLWMAR C
+The Exam Marks are:- 
+                      Exam1  :-  85       Grade:- C
+                      Exam2  :-  98       Grade:- B
+                      Exam3  :-  100       Grade:- B
+                      Exam4  :-  98       Grade:- B
+                      Exam5  :-  100       Grade:- A
+                      Exam6  :-  100       Grade:- B
+                      Exam7  :-  83       Grade:- C
+                      Exam8  :-  86       Grade:- C
+                      Exam9  :-  93       Grade:- C
+                      Exam10  :-  80       Grade:- D
+
+Student Name:- XMKSPFF NNSR H
+The Exam Marks are:- 
+                      Exam1  :-  100       Grade:- B
+                      Exam2  :-  72       Grade:- F
+                      Exam3  :-  100       Grade:- B
+                      Exam4  :-  66       Grade:- F
+                      Exam5  :-  75       Grade:- D
+                      Exam6  :-  69       Grade:- F
+                      Exam7  :-  96       Grade:- B
+                      Exam8  :-  77       Grade:- D
+                      Exam9  :-  74       Grade:- F
+                      Exam10  :-  69       Grade:- F
+
+Student Name:- YEELIT UEGAIN W
+The Exam Marks are:- 
+                      Exam1  :-  100       Grade:- B
+                      Exam2  :-  100       Grade:- B
+                      Exam3  :-  96       Grade:- B
+                      Exam4  :-  100       Grade:- B
+                      Exam5  :-  93       Grade:- B
+                      Exam6  :-  97       Grade:- B
+                      Exam7  :-  81       Grade:- D
+                      Exam8  :-  97       Grade:- B
+                      Exam9  :-  100       Grade:- B
+                      Exam10  :-  81       Grade:- C
+
+Student Name:- OTFI VZQHLLA D
+The Exam Marks are:- 
+                      Exam1  :-  100       Grade:- B
+                      Exam2  :-  100       Grade:- B
+                      Exam3  :-  68       Grade:- F
+                      Exam4  :-  79       Grade:- D
+                      Exam5  :-  70       Grade:- D
+                      Exam6  :-  100       Grade:- B
+                      Exam7  :-  81       Grade:- D
+                      Exam8  :-  96       Grade:- B
+                      Exam9  :-  100       Grade:- B
+                      Exam10  :-  100       Grade:- A
+
+Student Name:- OBWRBCI CWWUZGT D
+The Exam Marks are:- 
+                      Exam1  :-  71       Grade:- F
+                      Exam2  :-  73       Grade:- F
+                      Exam3  :-  89       Grade:- C
+                      Exam4  :-  83       Grade:- C
+                      Exam5  :-  69       Grade:- F
+                      Exam6  :-  89       Grade:- C
+                      Exam7  :-  70       Grade:- F
+                      Exam8  :-  96       Grade:- B
+                      Exam9  :-  93       Grade:- C
+                      Exam10  :-  100       Grade:- A
+
+Student Name:- OKD MGULGFP  
+The Exam Marks are:- 
+                      Exam1  :-  83       Grade:- C
+                      Exam2  :-  100       Grade:- B
+                      Exam3  :-  100       Grade:- B
+                      Exam4  :-  100       Grade:- B
+                      Exam5  :-  88       Grade:- C
+                      Exam6  :-  80       Grade:- D
+                      Exam7  :-  97       Grade:- B
+                      Exam8  :-  100       Grade:- A
+                      Exam9  :-  100       Grade:- B
+                      Exam10  :-  100       Grade:- A
+
+Student Name:- DAVWDFT BSJE R
+The Exam Marks are:- 
+                      Exam1  :-  78       Grade:- D
+                      Exam2  :-  95       Grade:- B
+                      Exam3  :-  81       Grade:- D
+                      Exam4  :-  81       Grade:- D
+                      Exam5  :-  100       Grade:- A
+                      Exam6  :-  69       Grade:- F
+                      Exam7  :-  100       Grade:- B
+                      Exam8  :-  94       Grade:- B
+                      Exam9  :-  81       Grade:- D
+                      Exam10  :-  84       Grade:- C
+
+Student Name:- DJEOVV TDIZ K
+The Exam Marks are:- 
+                      Exam1  :-  79       Grade:- D
+                      Exam2  :-  67       Grade:- F
+                      Exam3  :-  100       Grade:- B
+                      Exam4  :-  100       Grade:- B
+                      Exam5  :-  66       Grade:- F
+                      Exam6  :-  82       Grade:- C
+                      Exam7  :-  74       Grade:- D
+                      Exam8  :-  92       Grade:- B
+                      Exam9  :-  81       Grade:- D
+                      Exam10  :-  92       Grade:- B
+
+Student Name:- Rzg Rjrx  
+The Exam Marks are:- 
+                      Exam1  :-  95       Grade:- B
+                      Exam2  :-  78       Grade:- D
+                      Exam3  :-  91       Grade:- C
+                      Exam4  :-  66       Grade:- F
+                      Exam5  :-  100       Grade:- A
+                      Exam6  :-  67       Grade:- F
+                      Exam7  :-  88       Grade:- C
+                      Exam8  :-  87       Grade:- C
+                      Exam9  :-  100       Grade:- B
+                      Exam10  :-  100       Grade:- A
+
+Student Name:- GYYAVR DZSC M
+The Exam Marks are:- 
+                      Exam1  :-  94       Grade:- B
+                      Exam2  :-  89       Grade:- C
+                      Exam3  :-  100       Grade:- B
+                      Exam4  :-  94       Grade:- B
+                      Exam5  :-  70       Grade:- D
+                      Exam6  :-  99       Grade:- B
+                      Exam7  :-  70       Grade:- F
+                      Exam8  :-  76       Grade:- D
+                      Exam9  :-  100       Grade:- B
+                      Exam10  :-  67       Grade:- F
+
+Student Name:- SEESU JIKYMQ  
+The Exam Marks are:- 
+                      Exam1  :-  100       Grade:- B
+                      Exam2  :-  79       Grade:- D
+                      Exam3  :-  92       Grade:- B
+                      Exam4  :-  93       Grade:- B
+                      Exam5  :-  80       Grade:- C
+                      Exam6  :-  94       Grade:- B
+                      Exam7  :-  69       Grade:- F
+                      Exam8  :-  100       Grade:- A
+                      Exam9  :-  70       Grade:- F
+                      Exam10  :-  70       Grade:- F
+
+Student Name:- FYFKENVQ LGJKRRX  
+The Exam Marks are:- 
+                      Exam1  :-  91       Grade:- C
+                      Exam2  :-  100       Grade:- B
+                      Exam3  :-  88       Grade:- C
+                      Exam4  :-  95       Grade:- B
+                      Exam5  :-  70       Grade:- D
+                      Exam6  :-  100       Grade:- B
+                      Exam7  :-  82       Grade:- D
+                      Exam8  :-  98       Grade:- B
+                      Exam9  :-  100       Grade:- B
+                      Exam10  :-  100       Grade:- A
+
+Student Name:- GZGILBKIT ICTF Q
+The Exam Marks are:- 
+                      Exam1  :-  100       Grade:- B
+                      Exam2  :-  83       Grade:- D
+                      Exam3  :-  100       Grade:- B
+                      Exam4  :-  100       Grade:- B
+                      Exam5  :-  100       Grade:- A
+                      Exam6  :-  81       Grade:- D
+                      Exam7  :-  99       Grade:- B
+                      Exam8  :-  70       Grade:- F
+                      Exam9  :-  82       Grade:- D
+                      Exam10  :-  94       Grade:- B
+
+Student Name:- TRQHK QCIC V
+The Exam Marks are:- 
+                      Exam1  :-  80       Grade:- D
+                      Exam2  :-  82       Grade:- D
+                      Exam3  :-  67       Grade:- F
+                      Exam4  :-  66       Grade:- F
+                      Exam5  :-  99       Grade:- A
+                      Exam6  :-  97       Grade:- B
+                      Exam7  :-  95       Grade:- B
+                      Exam8  :-  72       Grade:- D
+                      Exam9  :-  93       Grade:- C
+                      Exam10  :-  67       Grade:- F
+
+Student Name:- KMPTPTAV OZGASIN A
+The Exam Marks are:- 
+                      Exam1  :-  88       Grade:- C
+                      Exam2  :-  100       Grade:- B
+                      Exam3  :-  82       Grade:- D
+                      Exam4  :-  100       Grade:- B
+                      Exam5  :-  74       Grade:- D
+                      Exam6  :-  67       Grade:- F
+                      Exam7  :-  100       Grade:- B
+                      Exam8  :-  69       Grade:- F
+                      Exam9  :-  72       Grade:- F
+                      Exam10  :-  69       Grade:- F
+
+Student Name:- WMWACIX CGLP T
+The Exam Marks are:- 
+                      Exam1  :-  81       Grade:- D
+                      Exam2  :-  100       Grade:- B
+                      Exam3  :-  76       Grade:- D
+                      Exam4  :-  74       Grade:- D
+                      Exam5  :-  67       Grade:- F
+                      Exam6  :-  100       Grade:- B
+                      Exam7  :-  99       Grade:- B
+                      Exam8  :-  85       Grade:- C
+                      Exam9  :-  99       Grade:- B
+                      Exam10  :-  89       Grade:- C
+
+Student Name:- ZBKOGI NTEIU R
+The Exam Marks are:- 
+                      Exam1  :-  79       Grade:- D
+                      Exam2  :-  76       Grade:- D
+                      Exam3  :-  100       Grade:- B
+                      Exam4  :-  86       Grade:- C
+                      Exam5  :-  100       Grade:- A
+                      Exam6  :-  88       Grade:- C
+                      Exam7  :-  95       Grade:- B
+                      Exam8  :-  100       Grade:- A
+                      Exam9  :-  87       Grade:- C
+                      Exam10  :-  91       Grade:- B
+
+Student Name:- DXTPGP NHZR Y
+The Exam Marks are:- 
+                      Exam1  :-  72       Grade:- F
+                      Exam2  :-  100       Grade:- B
+                      Exam3  :-  86       Grade:- C
+                      Exam4  :-  100       Grade:- B
+                      Exam5  :-  68       Grade:- F
+                      Exam6  :-  89       Grade:- C
+                      Exam7  :-  100       Grade:- B
+                      Exam8  :-  84       Grade:- C
+                      Exam9  :-  90       Grade:- C
+                      Exam10  :-  95       Grade:- B
+
