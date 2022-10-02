@@ -1,3 +1,9 @@
+/**  
+    CS700 ASSIGNMENT 1 SECTION 1
+    DISHANT SHAH
+    DUE DATE :- 2 OCT 2022
+**/
+
 #include<iostream>
 #include <fstream>
 #include <sstream>
@@ -10,7 +16,11 @@ using namespace std;
 int studentno;                                                              //Variable declaration
 int examno;                                                                 //Variable declaration
 
-
+/** 
+   @brief return if the character is number or not 
+   @param varaible of string type
+   @return boolean value
+**/
 bool isNumber(string x)
 {
     regex e ("\\d+");
@@ -20,6 +30,13 @@ bool isNumber(string x)
         return false;
 }
 
+/** 
+   @brief returns average of the student
+   @param variableOne dynamic 2D array of integer type
+   @param variableTwo of integer type
+   @param variableThree of integer type
+   @param variableFour dynamic array of integer type
+**/
 void Average(int** a,int k,int j, int* c)
 {
     for (int k = 0; k < examno; k++)
@@ -33,6 +50,15 @@ void Average(int** a,int k,int j, int* c)
     }
 
 }
+
+/** 
+   @brief return grade of the student
+   @param variableOne dynamic 2D array of integer type
+   @param variableTwo dynamic array of integer type
+   @param variableThree of integer type
+   @param variableFour of integer type
+   @param variableFive dynamic array of character type
+**/
 void Getgrade(int** a, int* b, int k,int j, char** c)
 {
     for (int k = 0; k < examno; k++)
