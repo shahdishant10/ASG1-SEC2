@@ -58,18 +58,18 @@ fileout.open("Result.txt");              //result is stored in Result.txt file
 for(int j=0;j<examno;j++)
 {
     in>>value;
-    marks[i][j]=value;
+    marks[i][j]=value;      //storing marks in marks array.
 }
 
-        s[i].firstname = fname;
+        s[i].firstname = fname;   //storing student first name, last name am=nd middle name in student struct data.
         s[i].lastname = lname;
         s[i].middlename = mname;
         i++;
 
 }
-        Average(marks,examno,studentno,Avg);
-        Getgrade(marks,Avg,examno,studentno,grade);
-            for (int a = 0; a < studentno; a++)
+        Average(marks,examno,studentno,Avg);   //functions for getting the average of the students.
+        Getgrade(marks,Avg,examno,studentno,grade); //function for getting the grades of the students.
+            for (int a = 0; a < studentno; a++)     //loop for printing output in the console.
     {
         cout << "Student Name:- " << s[a].firstname<<" "<<s[a].lastname<<" "<<s[a].middlename << endl;
         cout << "The Exam Marks are:- " << endl;
@@ -81,7 +81,7 @@ for(int j=0;j<examno;j++)
         }
         cout << endl;
     }
-     for (int a= 0; a < studentno; a++)
+     for (int a= 0; a < studentno; a++)   //loop for printing output in the output file.
     {
         fileout << "Student Name:- " << s[a].firstname<<" "<<s[a].lastname<<" "<<s[a].middlename << endl;
         fileout << "The Exam Marks are:- " << endl;
